@@ -46,7 +46,7 @@ telas grande: acima de 1200px
     body {
         background-image: url(../imagens/back-tablet.jpg);
     }
-
+    
     img#phone { display: none;}
     img#tablet { display: block;}
     img#print { display: none;}
